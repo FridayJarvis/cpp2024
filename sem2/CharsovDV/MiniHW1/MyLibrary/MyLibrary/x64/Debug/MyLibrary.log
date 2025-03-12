@@ -1,0 +1,5 @@
+﻿  MyLibrary.cpp
+C:\Users\chars\source\repos\MyLibrary\MyLibrary\MyLibrary.cpp(17,54): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+  (compiling source file '/MyLibrary.cpp')
+  
+  MyLibrary.vcxproj -> C:\Users\chars\source\repos\MyLibrary\x64\Debug\MyLibrary.dll
