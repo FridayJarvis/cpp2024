@@ -1,0 +1,60 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\chars\\source\\repos\\SFML_TileGame\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EE07BD5A-F196-42A3-941A-596FACC46E2A}|SFML_TileGame.vcxproj|C:\\Users\\chars\\source\\repos\\SFML_TileGame\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{EE07BD5A-F196-42A3-941A-596FACC46E2A}|SFML_TileGame.vcxproj|solutionrelative:main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE07BD5A-F196-42A3-941A-596FACC46E2A}|SFML_TileGame.vcxproj|C:\\Users\\chars\\source\\repos\\SFML_TileGame\\sources\\HP.png||{58961B49-13E0-48C0-9258-13CBC4D40279}",
+      "RelativeMoniker": "D:0:0:{EE07BD5A-F196-42A3-941A-596FACC46E2A}|SFML_TileGame.vcxproj|solutionrelative:sources\\HP.png||{58961B49-13E0-48C0-9258-13CBC4D40279}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "HP.png",
+              "DocumentMoniker": "C:\\Users\\chars\\source\\repos\\SFML_TileGame\\sources\\HP.png",
+              "RelativeDocumentMoniker": "sources\\HP.png",
+              "ToolTip": "C:\\Users\\chars\\source\\repos\\SFML_TileGame\\sources\\HP.png",
+              "RelativeToolTip": "sources\\HP.png",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2025-04-14T18:24:31.624Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "main.cpp",
+              "DocumentMoniker": "C:\\Users\\chars\\source\\repos\\SFML_TileGame\\main.cpp",
+              "RelativeDocumentMoniker": "main.cpp",
+              "ToolTip": "C:\\Users\\chars\\source\\repos\\SFML_TileGame\\main.cpp",
+              "RelativeToolTip": "main.cpp",
+              "ViewState": "AgIAAGkAAAAAAAAAAAAAAHEAAABPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-04-13T20:00:43.753Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

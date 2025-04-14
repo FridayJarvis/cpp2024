@@ -1,0 +1,16 @@
+﻿  main.cpp
+C:\Users\chars\Documents\SFML-3.0.0\include\SFML\System\Exception.hpp(41,47): warning C4275: class "std::runtime_error", не являющийся dll-интерфейсом, использован в качестве базового для dll-интерфейса class "sf::Exception"
+  (компиляция исходного файла "main.cpp")
+      C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.42.34433\include\stdexcept(100,19):
+       см. объявление "std::runtime_error"
+      C:\Users\chars\Documents\SFML-3.0.0\include\SFML\System\Exception.hpp(41,23):
+       см. объявление "sf::Exception"
+  
+C:\Users\chars\source\repos\SFML_TileGame\main.cpp(86,32): warning C4244: инициализация: преобразование "float" в "int", возможна потеря данных
+C:\Users\chars\source\repos\SFML_TileGame\main.cpp(86,17): warning C4244: инициализация: преобразование "float" в "const int", возможна потеря данных
+C:\Users\chars\source\repos\SFML_TileGame\main.cpp(92,32): warning C4244: инициализация: преобразование "float" в "int", возможна потеря данных
+C:\Users\chars\source\repos\SFML_TileGame\main.cpp(92,17): warning C4244: инициализация: преобразование "float" в "const int", возможна потеря данных
+C:\Users\chars\source\repos\SFML_TileGame\main.cpp(132,15): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+C:\Users\chars\source\repos\SFML_TileGame\main.cpp(174,48): warning C4244: аргумент: преобразование "float" в "unsigned int", возможна потеря данных
+C:\Users\chars\source\repos\SFML_TileGame\main.cpp(177,36): warning C4244: аргумент: преобразование "float" в "unsigned int", возможна потеря данных
+  SFML_TileGame.vcxproj -> C:\Users\chars\source\repos\SFML_TileGame\x64\Debug\SFML_TileGame.exe
