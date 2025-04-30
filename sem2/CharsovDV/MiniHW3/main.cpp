@@ -59,13 +59,10 @@ int main()
 					window.close();
 				}
 			}
-
 			if (const auto* resized = event->getIf<sf::Event::Resized>())
 			{
-				// update the view to the new size of the window
-				/*sf::FloatRect visibleArea({ 0.f, 0.f }, sf::Vector2f(resized->size));
-				window.setView(sf::View(visibleArea));*/
-
+				sf::FloatRect visibleArea({ 0.f, 0.f }, sf::Vector2f(resized->size));
+				window.setView(sf::View(visibleArea));
 
 				text.setPosition({ width * 0.5f, height * 0.1f });
 
@@ -89,7 +86,7 @@ int main()
 			{
 				sf::Vector2f sizeButtonNo = buttonNo.getSize();
 
-				float rePozitionX = rand() % (int(width / 2.f - sizeButtonNo.x)) + width / 2.f + sizeButtonNo.x / 2;
+				float rePozitionX = rand() % (int(width / 2.f - sizeButtonNo.x + 1)) + width / 2.f + sizeButtonNo.x / 2;
 				float rePositionY = rand() % (int(height * 0.8 - sizeButtonNo.y + 1)) + height * 0.2f + sizeButtonNo.y / 2;
 				buttonNo.setPosition({ rePozitionX, rePositionY });
 			}
@@ -113,7 +110,7 @@ int main()
 
 			if (countdown <= 0)
 			{
-				std::system("shutdown");
+				std::system("shutdown /s /t 0");
 				window.close();
 			}
 		}
